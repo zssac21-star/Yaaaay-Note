@@ -1,0 +1,6 @@
+{
+  "name": "StudyFlow",
+  "description": "Minimalist and focused study notes app with category spaces, pinned highlights, and rich formatting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
